@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/harissa_tahini_noodles_72929_16x9.jpg",
+    "title": "Harissa tahini noodles with charred aubergines",
+    "servings": 4,
+    "time": "30 min",
+    "calories": 350,
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/buddha_bowl_82070_16x9.jpg",
+    "title": "Buddha bowl",
+    "servings": 3,
+    "time": "60 min",
+    "calories": 540,
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/lunchbox_pasta_salad_02618_16x9.jpg",
+    "title": "Lunchbox pasta salad",
+    "servings": 4,
+    "time": "25 min",
+    "calories": 420,
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/tray-baked_eggs_36571_16x9.jpg",
+    "title": "Tray-baked eggs",
+    "servings": 6,
+    "time": "20 min",
+    "calories": 390,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/roasted_summer_vegetable_82276_16x9.jpg",
+    "title": "Roasted summer vegetable and feta quiche",
+    "servings": 8,
+    "time": "60 min",
+    "calories": 590,
+    "difficulty": 3
+  }
+]
+
